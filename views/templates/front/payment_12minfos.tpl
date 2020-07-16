@@ -56,7 +56,7 @@ function termsCheck()
             "publicKey": public_key,
             "productIdentity": order_id,
             "productName": "Product",
-            "productUrl": "url",
+            "productUrl": "https://khalti.com/",
             "eventHandler": {
                 onSuccess (payload) {
                     // hit merchant api for initiating verfication
